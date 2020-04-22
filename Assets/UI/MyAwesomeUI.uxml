@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:Button style="width: 100px;&#10;height: 100px;&#10;background-color: rgba(148, 233, 255, 255);&#10;margin-left: 0;&#10;margin-right: 0;&#10;margin-top: 0;&#10;margin-bottom: 0;&#10;align-items: stretch;&#10;justify-content: flex-start;&#10;display: flex;&#10;">
+        <Style src="MyAwesomeUI.uss" />
+    </ui:Button>
+</ui:UXML>

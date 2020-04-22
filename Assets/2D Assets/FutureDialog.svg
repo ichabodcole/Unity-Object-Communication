@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="300px" viewBox="0 0 512 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>FutureDialog</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="FutureDialog" transform="translate(0.000000, -0.000000)">
+                <path d="M0,300 L0,71.5288948 L88.145491,0 L512,0 L512,228.471105 L423.854509,300 L0,300 Z" id="Combined-Shape" fill="#4C4C4C"></path>
+                <path d="M510,2 L88.8548847,2 L2,72.4815849 L2,298 L423.145115,298 L510,227.518415 L510,2 Z" id="Combined-Shape-Copy" stroke="#979797" stroke-width="4"></path>
+                <line x1="469" y1="13" x2="497" y2="13" id="Line" stroke="#979797" stroke-width="3" stroke-linecap="square"></line>
+                <line x1="469" y1="23" x2="497" y2="23" id="Line-Copy" stroke="#979797" stroke-width="3" stroke-linecap="square"></line>
+                <line x1="469" y1="33" x2="497" y2="33" id="Line-Copy-2" stroke="#979797" stroke-width="3" stroke-linecap="square"></line>
+                <polygon id="Triangle" fill="#D8D8D8" transform="translate(17.000000, 284.000000) rotate(-270.000000) translate(-17.000000, -284.000000) " points="17 279 22 289 12 289"></polygon>
+                <polygon id="Triangle-Copy" fill="#D8D8D8" transform="translate(32.000000, 284.000000) rotate(-270.000000) translate(-32.000000, -284.000000) " points="32 279 37 289 27 289"></polygon>
+                <polygon id="Triangle-Copy-2" fill="#D8D8D8" transform="translate(47.000000, 284.000000) rotate(-270.000000) translate(-47.000000, -284.000000) " points="47 279 52 289 42 289"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
